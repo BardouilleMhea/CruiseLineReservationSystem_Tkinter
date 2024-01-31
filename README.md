@@ -1,4 +1,4 @@
-![image](https://github.com/BardouilleMhea/CruiseLineReservationSystem_Tkinter/assets/95055804/8aa29dfe-2b48-4242-9e59-fd5c1c0ff707)# Cruise Line Reservation System - Tkinter
+# Monroe Caribbean Cruise Line Reservation System
 
 This project implements a reservation system for Monroe Caribbean Cruise Line using Tkinter, a Python GUI library.
 
